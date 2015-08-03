@@ -1,7 +1,6 @@
 Hevelop Transliteration Extension
 =====================
 
-
 To transliterate a string, just do Mage::helper('hevelop/transliteration')->transliterate('Your UTF8 string');
 
 Alternatively you can use the aliases
@@ -53,3 +52,8 @@ Licence
 Copyright
 ---------
 (c) 2015 Hevelop
+
+Credits
+---------
+Credits for the original drupal library goes to [smk-ka](https://www.drupal.org/u/smk-ka) and [amateescu](https://www.drupal.org/u/amateescu)
+[https://www.drupal.org/project/transliteration](https://www.drupal.org/project/transliteration)
