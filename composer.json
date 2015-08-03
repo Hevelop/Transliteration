@@ -1,0 +1,15 @@
+{
+    "name": "hevelop/transliteration",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "description": "Transliterates an UTF-8 encoded string to a US-ASCII string",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"Davide Barlassina",
+            "email":"davide@hevelop.com"
+        }
+    ]
+}

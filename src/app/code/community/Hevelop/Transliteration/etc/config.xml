@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Hevelop_Transliteration>
+            <version>1.0.0</version>
+        </Hevelop_Transliteration>
+    </modules>
+    <global>    
+        <helpers>
+            <transliteration>
+                <class>Hevelop_Transliteration_Helper</class>
+            </transliteration>
+        </helpers>
+    </global> 
+</config>
