@@ -1,11 +1,11 @@
 Hevelop Transliteration Extension
 =====================
 
-To transliterate a string, just do Mage::helper('hevelop/transliteration')->transliterate('Your UTF8 string');
+To transliterate a string, just do Mage::helper('transliteration')->transliterate('Your UTF8 string');
 
 Alternatively you can use the aliases
-Mage::helper('hevelop/transliteration')->trslt('Your UTF8 string');
-Mage::helper('hevelop/transliteration')->translit('Your UTF8 string');
+Mage::helper('transliteration')->trslt('Your UTF8 string');
+Mage::helper('transliteration')->translit('Your UTF8 string');
 
 Facts
 -----
